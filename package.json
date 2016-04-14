@@ -1,0 +1,19 @@
+{
+  "name": "booth-audio",
+  "version": "1.0.0",
+  "description": "Audio loop for 2016 AEPi Booth",
+  "main": "booth_loop4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AEPi-AK/booth-loop.git"
+  },
+  "author": "Benjamin Lichtman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AEPi-AK/booth-loop/issues"
+  },
+  "homepage": "https://github.com/AEPi-AK/booth-loop#readme"
+}
