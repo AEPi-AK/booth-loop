@@ -12,5 +12,6 @@ sound.play();
 setInterval(function(){
   // repeat song every 3 mins 22.508 seconds
   // clip is 3 mins 22.507 seconds  long
+  console.log("Restarting song");
   sound.play();
 }, 202508);
