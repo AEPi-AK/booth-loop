@@ -4,6 +4,7 @@
   "description": "Audio loop for 2016 AEPi Booth",
   "main": "booth_loop4.js",
   "scripts": {
+    "preinstall": "init.sh",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
