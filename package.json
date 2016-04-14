@@ -5,6 +5,7 @@
   "main": "booth_loop4.js",
   "scripts": {
     "preinstall": "bash init.sh",
+    "start": "node booth_loop4.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
