@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/AEPi-AK/booth-loop/issues"
   },
-  "homepage": "https://github.com/AEPi-AK/booth-loop#readme"
+  "homepage": "https://github.com/AEPi-AK/booth-loop#readme",
+  "dependencies": {
+    "memwatch-next": "^0.2.10",
+    "node-mpg123": "^1.0.2-23"
+  }
 }
